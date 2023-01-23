@@ -1,0 +1,53 @@
+{
+       "Section": "Choices Add Text Options",
+  "EmojiA": "🥨 | ",
+  "ProvideText": "Hey! Please provide some text! Use the command \"!help\" if you need to see the usage of the command!",
+  "ManyText": "The text can only be less than 100 characters.",
+  "Only5": "Remember that you can only add 5 choices.",
+  
+        "Section": "Choices List Text Options",
+  "EmojiB": "🥐 | ",
+  "NoChoice": "It seems there are no choices in this guild! If you think this is a mistake, try to contact the creator of the bot.",
+
+          "Section": "Choices List Text Options",
+  "EmojiC": "🍞 | ",
+
+          "Section": "Modmail Text Options",
+  "EmojiD": "🍪| ",
+  "EmojiClient": "🥧 | ",
+  "EmojiStaff": "🥞 | ",
+  "EmojiAttachment": "👀 | ",
+  "EmojiAttachmentS": "🧇 | ",
+  "EmojiAttachmentC": "🍩 | ",
+  "TeamName": "Support Team",
+  "WrongSet": "This guild is not setup correctly! The moderators need to specify a category, role, and some choices for Mail allowing people to create threads! This issue might also be caused because of the administrator deleting the support role, or Mail category!",
+  "ExistingMailChan": "It seems there's already a channel set for sending ModMail requests! Please head to the following channel for further information.",
+  "Welcome": "Greetings! Welcome to the modmail system of the server! With the reactions I provide to you, select of what would you like to talk about! We would be glad to hear you out! Remember you have 30 seconds to chose.",
+  "Thanks": "Thanks for creating a modmail! Head to your DMs for more information!",
+  "NotChoice": "Hmm... Something is wrong. Make sure next time to select a valid reason to create a mail for staff!",
+  "ConfirmationMessage": "Thanks for using our modmail. It's pretty appreciated. Make sure to be attentive to your DMs, since I will be sending some information to you! If you don't need anymore the mail, just tell the moderator to close! If you need anything, we're here to help you!",
+  "Ending": "Wasn't that wonderful? Please, make sure to read all the messages sent by the staff members. If you need to create another mail, feel free to do it! We're here to help you! Thanks for using our official Modmail System.",
+  "NoDMs": "Uh oh! Make sure you have turn on your DMs, so I can DM you! Otherwhise I won't be able to help you!",
+
+          "Section": "Modmail Category Text Options",
+  "EmojiE": "🍪 | ",
+
+          "Section": "Modmail Channel Text Options",
+  "EmojiF": "🍯 | ",
+  
+
+
+        "Section": "General Information Text Options",
+  "Success": "Your command was runned correctly!",
+  "List": "LIST REQUIRED:",
+  "Join": " | ",
+  "ProvideEmoji": "Hey! Please provide an emoji! Use the command \"!help\" if you need to see the usage of the command!",
+  "NotFound": "Hmm... I didn't find anything with those characteristics in the guild. Make sure to use the command properly, and to be specific. (If you can't find it, try using the ID).",
+  "NotFoundData": "Oops! It seems that variable isn't at our database! Make sure to check the available data before doing the command. Try again with a real variable this time.",
+  "Choice": "The choice",
+  "Select": "It seems you didn't select a valid option. Please select a",
+  "Category": " **Category**",
+  "Channel": " **Channel**",
+  "Added": "was successfully added!",
+  "Removed": "was successfully deleted!"
+}
