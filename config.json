@@ -1,0 +1,4 @@
+{
+    "prefix": "!",
+    "mongoURI": "CONNECT YOUR MONGO ATLAS CLUSTER AS VS CODE IN THIS PART"
+}

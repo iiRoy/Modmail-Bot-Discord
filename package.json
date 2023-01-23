@@ -1,0 +1,26 @@
+{
+  "name": "Modmail",
+  "version": "3.0.1",
+  "description": "Modmail Bot System created by Rovel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "iRoy_x",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "commands": "0.0.7",
+    "discord.js": "^13.1.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "ping-monitor": "^0.6.1",
+    "zapmongo": "^2.1.0"
+  },
+  "devDependencies": {
+    "node": "^16.6.1"
+  },
+  "keywords": []
+}
